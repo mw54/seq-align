@@ -7,7 +7,7 @@ This web app provides sequence alignment using the Needleman-Wunsch Algorithm (N
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Michael-Williams49/sa
+git clone https://github.com/mw54/seq-align
 cd sa
 ```
 
